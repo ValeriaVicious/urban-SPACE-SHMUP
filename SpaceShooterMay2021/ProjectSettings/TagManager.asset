@@ -3,19 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EnemyShip
+  - Asteroid
+  - Hero
+  - Enemy
+  - ProjectileHero
+  - ProjectileEnemy
+  - PowerUp
+  - PowerUpBox
+  - FxTemporaire
+  - Coin
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Hero
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - ProjectileHero
+  - ProjectileEnemy
+  - Power Up
+  - Coin
   - 
   - 
   - 

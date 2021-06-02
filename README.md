@@ -21,3 +21,4 @@
 ![MainMenu](https://user-images.githubusercontent.com/59263802/120450530-1e572a00-c3c3-11eb-8ebd-0206b4207661.png)
 ![Game](https://user-images.githubusercontent.com/59263802/120450578-2616ce80-c3c3-11eb-8bd7-6739220b3954.png)
 ![Settings](https://user-images.githubusercontent.com/59263802/120450581-26af6500-c3c3-11eb-84d7-b8cb4158eaa1.png)
+![PauseMenu](https://user-images.githubusercontent.com/59263802/120475026-73069f00-c3db-11eb-87b7-d894778244fc.png)
